@@ -1,2 +1,2 @@
-TEST
-IF YOU SEE THIS, OK
+TEST\n
+Welcome
